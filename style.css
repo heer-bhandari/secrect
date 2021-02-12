@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    
+}        
+#one{
+width: 100%; 
+}
+.a{
+    position: center;
+    width: 290px;
+    height: 300px;}
+#w{
+   position: center;
+    width: 200px;
+    height: 300px;
+}
+#heer{
+    width: 100%;
+}
+img { transition: transform .2s; } img:hover { transform: scale(0.9); }
+.puppy{
+    width: 300px;
+}
+.dad{
+    font-family: 'Dosis', sans-serif;
+}
